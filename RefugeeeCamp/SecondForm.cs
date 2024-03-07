@@ -13,9 +13,6 @@ namespace RefugeeeCamp
             dataGridViewSecF.Columns.Add("Relatives", "Родственники (ФИО)");
             dataGridViewSecF.Columns.Add("Profession", "Род деятельности");
             dataGridViewSecF.Columns.Add("Financial situation", "Материальное положение");
-
-            // Добавление данных в DataGridView
-            // Здесь можно добавить данные с клавиатуры
         }
 
         private void buttonClose_Click(object sender, EventArgs e)
